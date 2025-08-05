@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sagor-ahamed-3ba753286/" target="blank">
+  <a href="https://www.linkedin.com/in/sagor-ahamed-3ba753286](https://www.linkedin.com/in/sagor-ahamed-7613a833a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/22650455/sagor-ahamed" target="blank">
