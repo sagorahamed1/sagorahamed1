@@ -8,12 +8,12 @@
 </p>
 
 - 🚀 I build and ship **cross-platform apps for Android & iOS** with **Flutter & Dart** — 3+ years, multiple apps live on the **Play Store** and **App Store**.
-- 🧱 I work with **GetX**, **clean architecture**, **Firebase**, and **RevenueCat** subscriptions.
+- 🧱 I work with **Bloc**, **GetX**, **clean architecture**, **Firebase**, and **RevenueCat** subscriptions.
 - ⚙️ I set up **CI/CD with Codemagic**, handle **OTA updates**, payments, and full **store submission lifecycles**.
 - 🤖 I integrate **AI** into apps (Gemini) and monetize with **AdMob**.
-- 🌱 I’m currently learning **Kotlin, Python, Flutter Flame, and Dart Frog.**
+- 🌱 I’m currently learning **Kotlin**
 - 💬 Ask me about **Flutter, cross-platform mobile, CI/CD, subscriptions & payments, and app publishing.**
-- 📫 How to reach me **sagorahammed002@gmail.com**
+- 📫 How to reach me **sagoramammed50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
